@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1745501698 source:c:\users\0082957\desktop\aed_ii\fila_ponteiro\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1745578984 source:f:\2025\aed_ii\fila_ponteiro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
