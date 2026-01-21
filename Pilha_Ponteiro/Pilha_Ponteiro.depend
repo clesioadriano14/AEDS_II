@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744896660 source:f:\2025\aed_ii\pilha_ponteiro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
